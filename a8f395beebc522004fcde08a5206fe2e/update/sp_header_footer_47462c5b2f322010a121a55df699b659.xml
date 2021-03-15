@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_header_footer">
+    <sp_header_footer action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller = function($http) {
+    var c = this;
+    $http.get('https://www.gardiner-hotels.com/chs/joke/').
+    success(function(data) {
+        c.result = data;
+    });
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.joke-footer {background-color: #EBC302;&#13;
+color: black;&#13;
+padding: 5px;&#13;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]></link>
+        <name>Funny Footer</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <static>false</static>
+        <sys_class_name>sp_header_footer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 01:24:50</sys_created_on>
+        <sys_id>47462c5b2f322010a121a55df699b659</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Funny Footer</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sp_header_footer_47462c5b2f322010a121a55df699b659</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 01:24:50</sys_updated_on>
+        <template><![CDATA[<div class="joke-footer">
+{{c.result.joke}}
+</div]]></template>
+    </sp_header_footer>
+</record_update>

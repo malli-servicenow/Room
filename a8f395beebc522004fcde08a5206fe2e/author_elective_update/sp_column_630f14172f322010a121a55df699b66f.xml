@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="2">670f14172f322010a121a55df699b66d</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 00:49:22</sys_created_on>
+        <sys_id>630f14172f322010a121a55df699b66f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sp_column_630f14172f322010a121a55df699b66f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 00:49:22</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</application>
+        <file_path/>
+        <instance_id>e3c2a6c2dbb5a0184d2bac44d496199a</instance_id>
+        <instance_name>dev104878</instance_name>
+        <name>sp_column_630f14172f322010a121a55df699b66f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="2">670f14172f322010a121a55df699b66d</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-15 00:49:22</sys_created_on><sys_id>630f14172f322010a121a55df699b66f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package><sys_policy/><sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope><sys_update_name>sp_column_630f14172f322010a121a55df699b66f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-15 00:49:22</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-1967832419</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>c2a2791e2f322010a121a55df699b67f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 00:49:22</sys_created_on>
+        <sys_id>b70f14172f322010a121a55df699b670</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178335be2220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 00:49:22</sys_updated_on>
+        <type>Column</type>
+        <update_guid>ff0f141716322010b5498832e992ee6f</update_guid>
+        <update_guid_history>ff0f141716322010b5498832e992ee6f:-1967832419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">26ac289f2f322010a121a55df699b617</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 01:48:49</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>268a86facae54c8a9314722013504544</sys_id>
+        <sys_metadata>630f14172f322010a121a55df699b66f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_scope_delete display_value="">22bd584cf94c499097f5c2db3e921c40</sys_scope_delete>
+        <sys_update_name>sp_column_630f14172f322010a121a55df699b66f</sys_update_name>
+        <sys_update_version display_value="sp_column_630f14172f322010a121a55df699b66f">b70f14172f322010a121a55df699b670</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 01:48:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

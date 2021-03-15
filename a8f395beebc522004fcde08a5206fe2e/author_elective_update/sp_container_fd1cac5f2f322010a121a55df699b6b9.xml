@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Hotel Home - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="hotel_home">109b10532f322010a121a55df699b69d</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 01:46:19</sys_created_on>
+        <sys_id>fd1cac5f2f322010a121a55df699b6b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hotel Home - Container 3</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sp_container_fd1cac5f2f322010a121a55df699b6b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 01:46:19</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</application>
+        <file_path/>
+        <instance_id>e3c2a6c2dbb5a0184d2bac44d496199a</instance_id>
+        <instance_name>dev104878</instance_name>
+        <name>sp_container_fd1cac5f2f322010a121a55df699b6b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Hotel Home - Container 3</name><order>3</order><sp_page display_value="hotel_home">109b10532f322010a121a55df699b69d</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-15 01:46:19</sys_created_on><sys_id>fd1cac5f2f322010a121a55df699b6b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hotel Home - Container 3</sys_name><sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package><sys_policy/><sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope><sys_update_name>sp_container_fd1cac5f2f322010a121a55df699b6b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-15 01:46:19</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-807757139</payload_hash>
+        <record_name>Hotel Home - Container 3</record_name>
+        <reverted_from/>
+        <source>c2a2791e2f322010a121a55df699b67f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 01:46:19</sys_created_on>
+        <sys_id>f91cac5f2f322010a121a55df699b6bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178339003440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 01:46:19</sys_updated_on>
+        <type>Container</type>
+        <update_guid>351cac5fe73220109f3a9f16bfee66bb</update_guid>
+        <update_guid_history>351cac5fe73220109f3a9f16bfee66bb:-807757139</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hotel Home - Container 3">631ce45f2f322010a121a55df699b64a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 01:46:26</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>217f79af516f4888a33f6e4e37f23ca4</sys_id>
+        <sys_metadata>fd1cac5f2f322010a121a55df699b6b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hotel Home - Container 3</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_scope_delete display_value="">22bd584cf94c499097f5c2db3e921c40</sys_scope_delete>
+        <sys_update_name>sp_container_fd1cac5f2f322010a121a55df699b6b9</sys_update_name>
+        <sys_update_version display_value="sp_container_fd1cac5f2f322010a121a55df699b6b9">f91cac5f2f322010a121a55df699b6bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 01:46:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

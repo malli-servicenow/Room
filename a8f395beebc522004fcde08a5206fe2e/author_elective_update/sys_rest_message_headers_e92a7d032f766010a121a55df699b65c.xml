@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="DELETE">
+        <name>room</name>
+        <rest_message display_value="CHS REST">73b87d032f766010a121a55df699b633</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-14 12:49:37</sys_created_on>
+        <sys_id>e92a7d032f766010a121a55df699b65c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>room</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_rest_message_headers_e92a7d032f766010a121a55df699b65c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-14 12:49:37</sys_updated_on>
+        <value>101</value>
+    </sys_rest_message_headers>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</application>
+        <file_path/>
+        <instance_id>e3c2a6c2dbb5a0184d2bac44d496199a</instance_id>
+        <instance_name>dev104878</instance_name>
+        <name>sys_rest_message_headers_e92a7d032f766010a121a55df699b65c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers"><sys_rest_message_headers action="INSERT_OR_UPDATE"><name>room</name><rest_message display_value="CHS REST">73b87d032f766010a121a55df699b633</rest_message><sys_class_name>sys_rest_message_headers</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-14 12:49:37</sys_created_on><sys_id>e92a7d032f766010a121a55df699b65c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>room</sys_name><sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package><sys_policy/><sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope><sys_update_name>sys_rest_message_headers_e92a7d032f766010a121a55df699b65c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-14 12:49:37</sys_updated_on><value>101</value></sys_rest_message_headers></record_update>]]></payload>
+        <payload_hash>-245060973</payload_hash>
+        <record_name>room</record_name>
+        <reverted_from/>
+        <source>c2a2791e2f322010a121a55df699b67f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-14 12:49:37</sys_created_on>
+        <sys_id>1c5ab9432f766010a121a55df699b615</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17830c8ecfb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-14 12:49:37</sys_updated_on>
+        <type>HTTP Headers</type>
+        <update_guid>545ab943277660105b6b472a254e5915</update_guid>
+        <update_guid_history>545ab943277660105b6b472a254e5915:-245060973</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-14 12:51:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_headers">sys_rest_message_headers</sys_db_object>
+        <sys_id>28df64b8c9354cf8a0b096e45c795d44</sys_id>
+        <sys_metadata>e92a7d032f766010a121a55df699b65c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>room</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_parent display_value="CHS REST">73b87d032f766010a121a55df699b633</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_scope_delete display_value="">22bd584cf94c499097f5c2db3e921c40</sys_scope_delete>
+        <sys_update_name>sys_rest_message_headers_e92a7d032f766010a121a55df699b65c</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_headers_e92a7d032f766010a121a55df699b65c">1c5ab9432f766010a121a55df699b615</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-14 12:51:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

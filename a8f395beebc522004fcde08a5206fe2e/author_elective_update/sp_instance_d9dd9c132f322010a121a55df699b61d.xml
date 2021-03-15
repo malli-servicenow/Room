@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">ca5cdc532f322010a121a55df699b608</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 00:44:01</sys_created_on>
+        <sys_id>d9dd9c132f322010a121a55df699b61d</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sp_instance_d9dd9c132f322010a121a55df699b61d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 01:43:10</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\">Hello there!</h2><h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">How can we help?&nbsp;</h2>",
+		"displayValue": "<h2 style=\"text-align: center;\">Hello there!</h2>\n<h2 style=\"text-align: center;\">How can we help?&nbsp;</h2>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=d9dd9c132f322010a121a55df699b61d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</application>
+        <file_path/>
+        <instance_id>e3c2a6c2dbb5a0184d2bac44d496199a</instance_id>
+        <instance_name>dev104878</instance_name>
+        <name>sp_instance_d9dd9c132f322010a121a55df699b61d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;ca5cdc532f322010a121a55df699b608&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-15 00:44:01&lt;/sys_created_on&gt;&lt;sys_id&gt;d9dd9c132f322010a121a55df699b61d&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Hotel" source="x_hotel"&gt;a8f395beebc522004fcde08a5206fe2e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Hotel"&gt;a8f395beebc522004fcde08a5206fe2e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_d9dd9c132f322010a121a55df699b61d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-15 01:43:10&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;h2 data-mce-style=\"text-align: center;\" style=\"text-align: center;\"&gt;Hello there!&lt;/h2&gt;&lt;h2 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"&gt;How can we help?&amp;nbsp;&lt;/h2&gt;",
+		"displayValue": "&lt;h2 style=\"text-align: center;\"&gt;Hello there!&lt;/h2&gt;\n&lt;h2 style=\"text-align: center;\"&gt;How can we help?&amp;nbsp;&lt;/h2&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=d9dd9c132f322010a121a55df699b61d"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-812593169</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c2a2791e2f322010a121a55df699b67f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 01:43:10</sys_created_on>
+        <sys_id>eb5b285f2f322010a121a55df699b6e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178338d21a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 01:43:10</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>275b285f11322010cfb27fb6ca6d34e2</update_guid>
+        <update_guid_history>275b285f11322010cfb27fb6ca6d34e2:-812593169,a10b245fdf322010c42ac281dd11b76a:-1092901264,72de14171f322010a69e35f932809f13:-2096287826,ceae5017d63220108fbd4d2f6f899da3:-444393433,c30e9c93ba32201017ab01a510de3cc9:-1957150475,d1dd9c13133220107a430702a11f381f:1525983033</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">fb6c649f2f322010a121a55df699b658</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 01:47:50</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>2becb844ffa3414697379868aebdea59</sys_id>
+        <sys_metadata>d9dd9c132f322010a121a55df699b61d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_scope_delete display_value="">22bd584cf94c499097f5c2db3e921c40</sys_scope_delete>
+        <sys_update_name>sp_instance_d9dd9c132f322010a121a55df699b61d</sys_update_name>
+        <sys_update_version display_value="sp_instance_d9dd9c132f322010a121a55df699b61d">eb5b285f2f322010a121a55df699b6e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 01:47:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
