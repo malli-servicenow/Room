@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Room" max_length="40" name="x_hotel_room" type="collection">
+    <element attributes="hasLabels=true,live_feed=true,store_in_short_lived_cache=true" label="Room" max_length="40" name="x_hotel_room" sizeclass="13" type="collection">
         <element label="Floor" max_length="40" name="floor" type="integer"/>
         <element label="Number" max_length="40" name="number" type="string"/>
     </element>
